@@ -9,6 +9,5 @@
  */
 
 module.exports.routes = {
-
-
+  //'get /checkin': 'UserController.checkin',
 };
