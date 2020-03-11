@@ -7,10 +7,5 @@
 
 module.exports = {
 
-  /**
-   * `UserController.checkin()`
-   */
-  //checkin: async function (req, res) {  return res.json({message: 'todo'}); }
-
 };
 

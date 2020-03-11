@@ -9,5 +9,5 @@
  */
 
 module.exports.routes = {
-  //'get /checkin': 'UserController.checkin',
+  'post /upvote/:tipId' : 'TipsController.upvote'
 };
